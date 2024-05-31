@@ -111,11 +111,3 @@ As a seasoned Senior Full Stack Developer, I bring over 9 years of hands-on expe
  </tr>
 </table>
 <br><br>
-
-
----
-
-### :fire: My Stats :
-![Matthew-Gustafson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-Gustafson&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Gustafson&layout=compact&theme=vision-friendly-dark)](https://github.com/Matthew-Gustafson/github-readme-stats)
-[![Matthew-Gustafson's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Matthew-Gustafson&theme=dark&background=000000)](https://git.io/streak-stats)
